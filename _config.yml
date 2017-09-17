@@ -11,7 +11,7 @@ title                    : "Kartik Hegde"
 title_separator          : "-"
 name                     : &name "Kartik Hegde"
 description              : &description "CS PhD student at the University of Illinois at Urbana-Champaign"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://karthik-hegde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karthik-hegde.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &hegdekartik7
 facebook:
-  username               :
+  username               :karthik.hegde7
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,10 +81,10 @@ author:
   name             : "Kartik Hegde"
   avatar           : "profile.png"
   bio              : "Computer Science PhD student at the University of Illinois at Urbana-Champaign"
-  location         : "Location"
+  location         : "Champaign, IL"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kvhegde2@illinois.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hegdekartik7"
   vine             :
   weibo            :
   xing             :
