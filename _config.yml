@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &hegdekartik7
+  username               :  &hegdekartik7
 facebook:
-  username               :karthik.hegde7
+  username               :  karthik.hegde7
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
