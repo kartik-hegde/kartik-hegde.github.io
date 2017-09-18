@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Talks"
     url: /talks/    
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Personal Interests"
+    url: /personal/
     
   - title: "Contact"
     url: /contact/
