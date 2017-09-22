@@ -10,6 +10,6 @@ redirect_from:
 
 I am a first year PhD student in Computer Science adviced by Prof. [Chris Fletcher](http://cwfletcher.net). 
 
-Before joining CS@Illinois, I worked at ARM. My work at ARM included research on Deep Learning accelerators, SoC design/verification and GPU verification. I received my bachelors from [NIT-K Surathkal](http://www.nitk.ac.in) in 2015 from ECE department, where I was advised by Prof. [Sumam David](http://sumam.nitk.ac.in).
+Before joining [CS@Illinois](https://cs.illinois.edu), I worked at [ARM](https://www.arm.com). My work at ARM included research on Deep Learning accelerators, SoC design/verification and GPU verification. I received my bachelors from [NIT-K Surathkal](http://www.nitk.ac.in) in 2015 from ECE department, where I was advised by Prof. [Sumam David](http://sumam.nitk.ac.in).
 
 My research interests are in developing hardware accelerators for challenging applications. I am a strong proponent of heterogeneous system architectures, where specialized processors do the heavy lifting to provide the necessary speed-up. This, is the path to Exascale Computing!
