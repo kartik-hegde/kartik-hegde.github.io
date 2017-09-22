@@ -14,7 +14,7 @@ Reach me
 
 Best way to reach me is by email:
 
-* kvhegde2@illinois.edu or hegdekartik7@gmail.com
+* **kvhegde2@illinois.edu**
 * #4111, Thomas M Siebel centre for computer science, 
   201 Goodwin Avenue, Urbana, IL - 61801
 
