@@ -14,4 +14,4 @@ Before joining [CS@Illinois](https://cs.illinois.edu){:target="_blank"} at UIUC,
 
 My research interests are in developing hardware accelerators for challenging applications. I am a strong proponent of heterogeneous system architectures, where specialized processors do the heavy lifting to provide the necessary speed-up. This, is the path to Exascale Computing!
 
-I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/).
+I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/){:target="_blank"}.
