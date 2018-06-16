@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6392576686801723392" height="333" width="504" frameborder="0" allowfullscreen=""></iframe>
+1. **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition;** Kartik Hegde, Jiyong Yu, Rohit Agrawal, Mengjia Yan, Michael Pellauer, Christopher W. Fletcher; ISCA, 2018
 
-Hegde, Kartik V., Vadiraj Kulkarni, R. Harshavardhan, and S. Sumam David. "Adaptive reconfigurable architecture for image denoising." In Parallel and Distributed Processing Symposium Workshop (IPDPSW), 2015 IEEE International, pp. 196-201. IEEE, 2015.
+**Adaptive reconfigurable architecture for image denoising;** Kartik Hegde, Vadiraj Kulkarni, R. Harshavardhan, and S. Sumam David; IPDPSW 2015.
 
-Hegde, Kartik, "High Speed FFT for low-end GPUs", SRS, IEEE International conference on High Performance Computing (HiPC), 2014. Best Student Paper award 
+**High Speed FFT for low-end GPUs;**, Kartik Hegde, *SRS,* <span style="color:red">some HiPC 2014. text</span> <span style="color:red">some **Best Student Paper award .** text</span>
