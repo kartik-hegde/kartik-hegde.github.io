@@ -17,3 +17,5 @@ I have a strong interest in Indian classical music. I am an amateur flautist in 
 ---
 "A view from Jenukallu Gudda, near Sirsi"
 <br/><img src='/images/Jenukallu_gudda.jpg'>
+
+---
