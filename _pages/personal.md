@@ -14,7 +14,7 @@ I have a strong interest in Indian classical music. I am an amateur flautist in 
 
 
 <br/><br/> ![Viewpoint near Sirsi overlooking the Western Ghats and the river Bedthi](/images/Jenukallu_gudda.jpg)
-
+<br/><bold><center>Viewpoint near Sirsi overlooking the Western Ghats and the river Bedthi</center></bold>
 <!---
 <figure>
 <br/><br/><img src='/images/Jenukallu_gudda.jpg' style="border: 1px solid #000; max-width:64px; max-height:64px;">
