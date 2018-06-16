@@ -13,11 +13,14 @@ I grew up in a village near [Sirsi](https://en.wikipedia.org/wiki/Sirsi,_Karnata
 I have a strong interest in Indian classical music. I am an amateur flautist in Hindustani style of Indian Classical Music and have been practicing under the guidance of Sri Prakash Hegde since 2 years. Here is a [video](https://www.facebook.com/Karthikhegde7/videos/1413755802036304/){:target="_blank"} from my recent performance.
 
 
+<br/><br/> ![Viewpoint near Sirsi overlooking the Western Ghats and the river Bedthi](/images/Jenukallu_gudda.jpg)
+
+<!---
 <figure>
 <br/><br/><img src='/images/Jenukallu_gudda.jpg' style="border: 1px solid #000; max-width:64px; max-height:64px;">
 <figcaption>Viewpoint near Sirsi overlooking the Western Ghats and the river Bedthi</figcaption>
 </figure>
-
+-->
 
 
 
