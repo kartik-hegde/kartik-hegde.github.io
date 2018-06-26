@@ -18,5 +18,5 @@ Best way to reach me is by email:
 * #4111, Thomas M Siebel centre for computer science, 
   201 Goodwin Avenue, Urbana, IL - 61801
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Siebel%20centre%20of%20computer%20science&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.webdesign-muenchen-pb.de"></a></div><style>.mapouter{text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d944.585815340542!2d-88.22423094530447!3d40.1134853236526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880cd76baa8479a9%3A0x4e9f01d40d359630!2sThomas+M.+Siebel+Center+for+Computer+Science!5e0!3m2!1sen!2sus!4v1530025254869" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
