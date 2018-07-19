@@ -16,11 +16,15 @@ I am interested in building radically new system architectures containing multip
 
 I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/){:target="_blank"}.
 
+
+
 Recent News
 ======
 
-*July 19, 2018*
+**July 19, 2018**
+
 Our work on accelerating 3D-CNN based video classification was accepted to MICRO-2018!
 
-*March 13, 2018*
+**March 13, 2018**
+
 Our work on reducing computations in CNN inference with weight repetition was accepted to ISCA-2018!
