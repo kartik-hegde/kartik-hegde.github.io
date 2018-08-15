@@ -21,3 +21,5 @@ Work experience
   * Worked to build and verify ARM based mobile SoCs.
   * Worked on various special purpose mobile processors like GPU, Display and Video processors.
   
+If you would like to see my complete CV, please send me an email at **kvhegde2@illinois.edu**
+  
