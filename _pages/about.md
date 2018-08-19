@@ -21,6 +21,9 @@ I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/){:ta
 Recent News
 ======
 
+- **August 19, 2018:**  
+    Completed one year as a PhD student! Here is an [article](https://www.linkedin.com/pulse/first-year-phd-experiences-dos-donts-kartik-hegde){:target="_blank"} on my experiences.
+
 - **July 19, 2018:**  
     Our work on accelerating 3D-CNN based video classification was accepted to MICRO-2018!
 
