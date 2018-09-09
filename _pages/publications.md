@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **MORPH: Hardware-Software Codesign for Efficient Video Understanding;** Kartik Hegde, Rohit Agrawal, Yulun Yao, Christopher W. Fletcher; <span style="color:green"> MICRO, 2018. </span> *(To Appear)*
+- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding;** Kartik Hegde, Rohit Agrawal, Yulun Yao, Christopher W. Fletcher; <span style="color:green"> MICRO, 2018. </span> *(To Appear)*
 
 - **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition;** Kartik Hegde, Jiyong Yu, Rohit Agrawal, Mengjia Yan, Michael Pellauer, Christopher W. Fletcher; <span style="color:green"> ISCA, 2018. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/UCNN_ISCA.pdf){:target="_blank"}** </span>
 
