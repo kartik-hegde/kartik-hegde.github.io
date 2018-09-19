@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Computer Science advised by Prof. [Chris Fletcher](http://cwfletcher.net){:target="_blank"}. 
+I am a second year PhD student in Computer Science advised by Prof. [Chris Fletcher](http://cwfletcher.net){:target="_blank"}. 
 
 Before joining [CS@Illinois](https://cs.illinois.edu){:target="_blank"} at UIUC, I worked at [ARM](https://www.arm.com){:target="_blank"}. My work at ARM included research on Deep Learning accelerators, SoC design/verification and GPU verification. I received my bachelors from [NIT-K Surathkal](http://www.nitk.ac.in){:target="_blank"} in 2015 from ECE department, where I was advised by Prof. [Sumam David](http://sumam.nitk.ac.in){:target="_blank"}.
 
