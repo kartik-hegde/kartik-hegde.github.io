@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration;** Michael Pellauer, Yakun Sophia Shao, Jason Clemons, Neal Crago, Kartik Hegde, Rangarajan Venkatesan, Stephen W. Keckler, Christopher W Fletcher, Joel Emer; <span style="color:green"> ASPLOS, 2019. </span> 
+
 - **Morph: Flexible Acceleration for 3D CNN-based Video Understanding;** Kartik Hegde, Rohit Agrawal, Yulun Yao, Christopher W. Fletcher; <span style="color:green"> MICRO, 2018. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/Morph_final_CR.pdf){:target="_blank"}** </span>
 
 - **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition;** Kartik Hegde, Jiyong Yu, Rohit Agrawal, Mengjia Yan, Michael Pellauer, Christopher W. Fletcher; <span style="color:green"> ISCA, 2018. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/UCNN_ISCA.pdf){:target="_blank"}** </span>
