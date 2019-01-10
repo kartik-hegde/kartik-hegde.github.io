@@ -21,6 +21,9 @@ I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/){:ta
 Recent News
 ======
 
+- **January 10, 2019:** 
+    Received the [Facebook PhD Fellowship](https://research.fb.com/programs/fellowship/) for 2019-2021! Thank you Facebook!
+
 - **August 19, 2018:**  
     Completed one year as a PhD student! Here is an [article](https://medium.com/@hegdekartik7/first-year-of-ph-d-experiences-dos-and-donts-e3577e2ce161){:target="_blank"} on my experiences.
 
