@@ -14,7 +14,7 @@ Before joining [CS@Illinois](https://cs.illinois.edu){:target="_blank"} at UIUC,
 
 I am interested in building radically new system architectures containing multiple hardware accelerators to improve the performance/power efficiency of various workloads. I envision a future in computing where the supercomputers will be powered by domain specific massively heterogeneous architectures. Such processors can give unprecedented boost in both performance and power efficiency while helping us build the next generation exascale computers! If that resonates with your thoughts, feel free to drop me a line!
 
-I penned some of my thoughts in [my blog](https://karthikhegde.blogspot.in/){:target="_blank"}.
+I have tried to pen down my research statement <span style="color:blue;background:lightgray"> **[here](https://www.kartikhegde.net/files/research_statement.pdf)** </span>.
 
 
 
