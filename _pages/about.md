@@ -20,7 +20,9 @@ I have tried to pen down my research statement <span style="color:blue;backgroun
 
 Recent News
 ======
-
+- **July 25, 2019:** 
+    Our work on accelerating general sparse tensor algebra on a specialized hardware was accepted to MICRO-2019!
+    
 - **January 10, 2019:** 
     Received the [Facebook PhD Fellowship](https://research.fb.com/programs/fellowship/) for 2019-2021! Thank you Facebook! Featured on CS@Illinois [Website](https://cs.illinois.edu/news/kartik-hegde-awarded-facebook-fellowship-plan-rev-deep-learning-mobile-devices/).
 
@@ -29,6 +31,3 @@ Recent News
 
 - **July 19, 2018:**  
     Our work on accelerating 3D-CNN based video classification was accepted to MICRO-2018!
-
-- **March 13, 2018:**  
-    Our work on reducing computations in CNN inference with weight repetition was accepted to ISCA-2018!
