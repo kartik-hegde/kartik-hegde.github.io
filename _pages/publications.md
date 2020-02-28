@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **ExTensor: An Accelerator for Sparse Tensor Algebra;** Kartik Hegde, Hadi Asghari-Moghaddam, Michael Pellauer, Neal Crago, Aamer Jaleel, Edgar Solomonik, Joel Emer, Christopher W. Fletcher;<span style="color:green"> MICRO, 2019. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/ExTensor_final.pdf){:target="_blank"}** </span>
+- **ExTensor: An Accelerator for Sparse Tensor Algebra;** Kartik Hegde, Hadi Asghari-Moghaddam, Michael Pellauer, Neal Crago, Aamer Jaleel, Edgar Solomonik, Joel Emer, Christopher W. Fletcher;<span style="color:green"> MICRO, 2019. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/ExTensor_final.pdf){:target="_blank"}** </span> <span style="color:red"> ** IEEE Micro Top Picks 2020 Honorable Mention ** </span>
 
-- **Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration;** Michael Pellauer, Yakun Sophia Shao, Jason Clemons, Neal Crago, Kartik Hegde, Rangarajan Venkatesan, Stephen W. Keckler, Christopher W Fletcher, Joel Emer; <span style="color:green"> ASPLOS, 2019. </span>  <span style="color:blue;background:lightgray"> **[PDF](https://ysshao.github.io/assets/papers/Buffet_ASPLOS19_Final.pdf)** </span>
+- **Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration;** Michael Pellauer, Yakun Sophia Shao, Jason Clemons, Neal Crago, Kartik Hegde, Rangarajan Venkatesan, Stephen W. Keckler, Christopher W Fletcher, Joel Emer; <span style="color:green"> ASPLOS, 2019. </span>  <span style="color:blue;background:lightgray"> **[PDF](https://ysshao.github.io/assets/papers/Buffet_ASPLOS19_Final.pdf)** </span> <span style="color:red"> ** IEEE Micro Top Picks 2020 Honorable Mention ** </span>
 
 - **Morph: Flexible Acceleration for 3D CNN-based Video Understanding;** Kartik Hegde, Rohit Agrawal, Yulun Yao, Christopher W. Fletcher; <span style="color:green"> MICRO, 2018. </span> <span style="color:blue;background:lightgray"> **[PDF](https://www.kartikhegde.net/files/Morph_final_CR.pdf){:target="_blank"}** </span>
 
